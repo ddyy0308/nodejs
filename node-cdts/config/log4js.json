@@ -1,0 +1,43 @@
+{
+  "appenders": [
+    {
+      "type": "dateFile",
+      "filename": "/home/web/project/node-cdts/log/access.log",
+      "pattern": "-yyyy-MM-dd",
+      "category": "http"
+    },
+    {
+      "type": "file",
+      "filename": "/home/web/project/node-cdts/log/app.log",
+      "maxLogSize": 31457280,
+      "backups": 10,
+      "category":  "app"
+    },
+    {
+      "type": "file",
+      "filename": "/home/web/project/node-cdts/log/cluster.log",
+      "maxLogSize": 31457280,
+      "category": "cluster"
+    },
+    {
+      "type": "logLevelFilter",
+      "level": "ERROR",
+      "appender": {
+        "type": "file",
+        "filename": "/home/web/project/node-cdts/log/errors.log",
+        "maxLogSize": 31457280,
+        "backups": 2
+      }
+    },
+    {
+      "type": "console",
+      "category":"console"
+    }
+  ],
+  "replaceConsole": true,
+  "levels":{
+    "app":"ALL",
+    "cluster":"ALL",
+    "http":"ALL"
+  }
+}

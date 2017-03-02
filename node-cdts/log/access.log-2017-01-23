@@ -1,2 +1,0 @@
-[2017-01-23 09:45:12.566] [INFO] http - ::ffff:172.17.227.10 -- GET /api/stable/riskGrade/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 200 [length]46 [time]17
-[2017-01-23 09:45:14.702] [WARN] http - ::ffff:172.17.227.10 -- GET /api/stable/riskGrade/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]4

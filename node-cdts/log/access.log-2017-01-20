@@ -1,7 +1,0 @@
-[2017-01-20 12:58:56.340] [WARN] http - ::ffff:172.17.227.10 -- GET /api/stable/total/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]14
-[2017-01-20 12:58:58.282] [WARN] http - ::ffff:172.17.227.10 -- GET /api/stable/total/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]3
-[2017-01-20 14:26:08.128] [INFO] http - ::ffff:101.231.89.54 -- GET /api/stable/top5Device/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 200 [length]678 [time]30
-[2017-01-20 14:46:44.670] [INFO] http - ::ffff:45.62.101.105 -- GET /api/stable/top5Device/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 200 [length]678 [time]19
-[2017-01-20 14:48:22.810] [WARN] http - undefined -- GET /api/stable/top5Device/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]8
-[2017-01-20 15:19:02.126] [WARN] http - ::ffff:222.74.213.196 -- GET /api/stable/top5Device/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]4
-[2017-01-20 15:56:55.339] [WARN] http - ::ffff:222.74.213.196 -- GET /api/stable/top5Device/province/%E5%86%85%E8%92%99%E5%8F%A4%E8%87%AA%E6%B2%BB%E5%8C%BA 304 [length]- [time]10
